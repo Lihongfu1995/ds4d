@@ -1,0 +1,1 @@
+Adobe After Effects v15.0 Macintosh 64 为项目“3_1.aep”渲染日志渲染在“GMT 下午9:29:36”的“2017/11/26”上开始  “2017/11/26”“GMT 下午9:29:36”: 开始合成“heading”。  输出到: /Users/alex/Desktop/heading_1.mov      渲染由用户停止。    “2017/11/26”“GMT 下午9:32:02”: 完成的合成“heading”。  已用总时间: 2 分钟，19 秒日志在“GMT 下午9:32:02”的“2017/11/26”上关闭
